@@ -1,0 +1,6 @@
+## Setup if ESSN simulation
+## J.R.M.Annand 26/05/13
+/ESSN/physics/Physics QGSP_BIC
+/ESSN/det/CheckOverlap
+/ESSN/det/useArray 1
+/ESSN/det/setArrayFile data/TOFparmGen.dat
